@@ -1,7 +1,7 @@
 # research
 # 
 ### Description
-> IrfanView 4.53 allows a User Mode Read AV starting at MNG.DLL + 0x15C85
+> IrfanView 4.56 allows a User Mode Read AV starting at MNG.DLL + 0x15C85
 >
 > ------------------------------------------
 >
